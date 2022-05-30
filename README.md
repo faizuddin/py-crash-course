@@ -1,2 +1,1 @@
-# py-crash-course
-Python crash course for PMTC
+# Python crash course for UniKL-PMTC
