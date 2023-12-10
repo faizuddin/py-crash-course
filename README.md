@@ -1,1 +1,1 @@
-# Python crash course for UniKL-PMTC
+# Python workshop materials
