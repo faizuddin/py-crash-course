@@ -1,1 +1,1 @@
-# Python workshop materials
+# Python crash-course workshop materials
